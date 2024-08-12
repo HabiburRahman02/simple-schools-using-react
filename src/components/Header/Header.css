@@ -1,0 +1,12 @@
+nav img{
+    height: 60px;
+    width: 60px;
+}
+
+nav a {
+    margin-right: 30px;
+    font-size: 20px;
+}
+nav a:hover{
+    color: red;
+}
